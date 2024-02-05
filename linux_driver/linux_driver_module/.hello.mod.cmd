@@ -1,0 +1,1 @@
+cmd_/home/unitree/Go2/code/demoTest/linux_driver/linux_driver_module/hello.mod := { echo  /home/unitree/Go2/code/demoTest/linux_driver/linux_driver_module/hello.o;  echo; } > /home/unitree/Go2/code/demoTest/linux_driver/linux_driver_module/hello.mod
